@@ -1,0 +1,7 @@
+name = "leadsleap-instant-filter"
+main = "src/worker.js"
+compatibility_date = "2026-06-17"
+
+[vars]
+LEADSLEAP_URL = "https://lltrco.com/?r=sologotemm"
+SUSPICIOUS_URL = "https://liquidsatoshis.duckdns.org/"
