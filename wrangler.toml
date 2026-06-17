@@ -1,4 +1,4 @@
-name = "leadsleap-instant-filter"
+name = "leadsleap-coop"
 main = "src/worker.js"
 compatibility_date = "2026-06-17"
 
